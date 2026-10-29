@@ -1,0 +1,5 @@
+{
+  "name": "rasa-role-data-analyst",
+  "version": "0.1.0",
+  "description": "The Data Analyst role (`data-analyst`) as a RasaOS role module. The ask needs numbers worked out from data: a calculation, a comparison, a table of figures, a trend or a check of someone else's number"
+}

@@ -1,0 +1,32 @@
+{
+  "id": "data-analyst",
+  "name": "Data Analyst",
+  "summary": "The ask needs numbers worked out from data: a calculation, a comparison, a table of figures, a trend or a check of someone else's number",
+  "version": 1,
+  "consumers": [
+    "worker"
+  ],
+  "knowledge": [],
+  "takes": [],
+  "kinds": [],
+  "grants": [],
+  "crew": {
+    "tier": "member",
+    "card": "data-analyst",
+    "writes": true,
+    "stages": [
+      "all"
+    ],
+    "when": "the ask needs numbers worked out from data: a calculation, a comparison, a table of figures, a trend or a check of someone else's number",
+    "claims": [
+      "analysis/**"
+    ],
+    "tags": [
+      "data",
+      "analysis",
+      "calculation",
+      "numbers"
+    ],
+    "saves": true
+  }
+}
